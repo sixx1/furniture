@@ -1,0 +1,449 @@
+.row2 {
+	height: 800px;
+}
+
+.colX {
+	width: 31%;
+	height: 400px;
+}
+
+.colY {
+	width: 38%;
+	
+}
+
+#navProj {
+	height: 400px;
+	background-image: url(img/navProj.png);
+	background-size: 372px;
+}
+
+.colX ul {
+	margin: 140px 0 50px 40px;
+	text-transform: uppercase;
+	list-style: none;
+	color: white;
+}
+
+.colX li#mark {
+	color: black;
+	cursor: pointer;
+	list-style-image: url(img/arrow_white.png);
+}
+
+.colX ul:hover #mark {
+	color: white;
+	list-style: none;
+}
+
+.colX li:hover {
+	color: black;
+	cursor: pointer;
+	list-style-image: url(img/arrow_white.png);
+}
+
+.colX li#mark:hover {
+	color: black;
+	cursor: pointer;
+	list-style-image: url(img/arrow_white.png);
+}
+
+h1 {
+	margin-left: 150px;
+	text-transform: uppercase;
+	color: white;
+}
+
+.colY h2 {
+	margin: 40px 0 0 60px;
+	text-transform: uppercase;
+}
+
+.colY  {
+	height: 400px;
+}
+
+#right2 {
+	background-image: url(img/img1.png);
+	background-size: 320px;
+	background-repeat: no-repeat;
+	background-position: 160px;
+	background-color: white;
+}
+
+.colY p {
+	position: relative;
+	display: inline-block;
+	margin-left: 60px;
+	text-transform: uppercase;
+}
+
+.colY .viewP {
+	margin: 20px 0 0 35px;
+	text-transform: uppercase;
+}
+
+.viewP:hover {
+	cursor: pointer;
+}
+
+.viewP img {
+	height: 15px;
+}
+
+.viewP p {
+	margin-left: 0;
+}
+
+.like {
+	position: relative;
+	width: 32px;
+	display: inline-block;
+	margin: 0px 0 0 80px;
+	color: red;
+}
+.like img {
+    cursor: pointer;
+}
+.like p {
+	margin: 0;
+	margin-left: -5px;
+}
+
+.like img {
+	display: block;
+}
+
+#right1 {
+	background-image: url(img/potter.png);
+	background-size: 372px;
+	height: 200px;
+}
+
+#right1 h2 {
+	margin: 20px 0 0 30px;
+	text-transform: uppercase;
+}
+
+#right1 p {
+	margin-left: 30px;
+	margin-bottom: 5px;
+	width: 125px;
+	display: inline-block;
+}
+
+#right1 .viewP {
+	margin-left: 20px;
+	text-transform: uppercase;
+}
+
+#right1 .viewP p {
+	margin: 0;
+}
+
+#right1 .like {
+	margin: 5px 0 0 80px;
+}
+
+#right1 .like p {
+	margin-left: 0;
+}
+
+#tabano {
+	background-image: url(img/tabano.png);
+	background-size: 372px;
+	background-repeat: no-repeat;
+	height: 400px;
+	background-color: #E9EAE2;
+}
+
+#tabano h2 {
+	text-transform: uppercase;
+	margin: 275px 0 0 30px;
+}
+
+#tabano p {
+	text-transform: uppercase;
+	margin-left: 30px;
+	display: inline-block;
+}
+
+#tabano .viewP {
+	position: relative;
+	display: inline;
+	bottom: 50px;
+	left: 5px;
+}
+
+#tabano .viewP p {
+	margin: 0;
+}
+
+#tabano .like {
+	/*position: relative;*/
+	float: right;
+	display: inline-block;
+	margin: -50px 30px 0 0;
+/*	top: -50px;
+	left: 300px;*/
+}
+
+#tabano .like p {
+	margin: 0;
+}
+
+.col20 {
+	width: 20%;
+	height: 400px;
+	background-image: url(img/louis_xx.png);
+	background-size: 240px;
+}
+
+.col20 h2 {
+	color: white;
+	margin: 40px 0 0 30px;
+	text-transform: uppercase;
+}
+
+.col20 p {
+	color: white;
+	margin-left: 30px;
+	text-transform: uppercase;
+}
+
+.col20 .viewP {
+	position: relative;
+	display: inline;
+	bottom: 20px;
+	left: 10px;
+}
+.col20 .viewP p {
+	margin: 0;
+	display: inline;
+}
+
+.col20 .like {
+	position: relative;
+	display: inline-block;
+	margin: 0;
+	top: -5px;
+	left: 25px;
+}
+
+.col20 .like p {
+	color: white;
+	margin: 0;
+}
+
+.col49 {
+	width: 49%;
+	height: 400px;
+	background-image: url(img/395.png);
+	background-size: 588px;
+}
+
+.col49 h2 {
+	margin: 40px 0 10px 240px;
+}
+
+.col49 p {
+	margin: 0 0 0 240px;
+	display: inline-block;
+	text-transform: uppercase;
+}
+
+.col49 .viewP {
+	position: relative;
+	display: inline;
+	bottom: 50px;
+	left: 20px;
+}
+
+.col49 .viewP p {
+	margin: 0;
+}
+
+.col49 .like p {
+	margin: 0;
+}
+.col49 .like {
+	position: relative;
+	display: inline-block;
+	margin: -20px 0 0 520px;
+}
+
+.colLeft {
+	float: right;
+	width: 31%;
+}
+
+#fiji {
+	background-image: url(img/FIJI.png);
+	background-size: 372px;
+	height: 200px;
+}
+
+#fiji h2 {
+	margin: 20px 0 0 185px;
+	text-transform: uppercase;
+}
+
+#fiji p {
+	margin-left: 185px;
+	margin-bottom: 5px;
+	width: 200px;
+	display: inline-block;
+	text-transform: uppercase;
+}
+
+#fiji .viewP {
+	margin-left: 185px;
+	text-transform: uppercase;
+}
+
+#fiji .viewP p {
+	display: inline;
+	margin: 0;
+}
+
+#fiji .like {
+	margin: 5px 0 0 250px;
+}
+
+#fiji .like p {
+	margin-left: 0;
+}
+
+.row3 {
+	height: 250px;
+	background-color: white;
+
+}
+
+.col49b {
+	width: 49%;
+	background-image: url(img/Sesann.png);
+	background-size: 588px;
+}
+
+.col49b h2 {
+	margin: 150px 0 10px 50px;
+	text-transform: uppercase;
+}
+
+.col49b p {
+	margin: 0 0 0 50px;
+	display: inline-block;
+	text-transform: uppercase;
+}
+
+.col49b .viewP {
+	position: relative;
+	display: inline;
+	bottom: 50px;
+	left: 40px;
+}
+
+.col49b .viewP p {
+	margin: 0;
+}
+
+.col49b .like p {
+	margin: 0;
+	margin-left: -5px;
+}
+.col49b .like {
+	position: relative;
+	display: inline-block;
+	margin: 0;
+	left: -15px;
+}
+
+.col20b {
+	width: 31%;
+	height: 250px;
+	background-image: url(img/Alessi.png);
+	background-repeat: no-repeat;
+	background-color: #CECECE;
+	background-size: 240px;
+}
+
+.col20b h2 {
+	margin: 40px 0 0 150px;
+	text-transform: uppercase;
+}
+
+.col20b p {
+	margin-left: 150px;
+	text-transform: uppercase;
+}
+
+.col20b .viewP {
+	position: relative;
+	display: inline;
+	bottom: 10px;
+	left: 130px;
+}
+.col20b .viewP p {
+	margin: 0;
+	display: inline;
+}
+
+.col20b .like {
+	position: relative;
+	display: inline-block;
+	margin: 0;
+	top: 10px;
+	left: 165px;
+}
+
+.col20b .like p {
+	margin: 0;
+}
+
+.col31 {
+	width: 20%;
+	height: 250px;
+	background-image: url(img/home-Recovered_0001s_0001_projects.png);
+	background-size: 400px;
+}
+
+#test1 {
+	background-color: gray;
+}
+
+.col31 h3 {
+	font-size: 16px;
+	text-transform: uppercase;
+	margin: 40px 0 0 66px;
+}
+
+.col31 ul {
+	margin: 12px 0 50px 25px;
+	text-transform: uppercase;
+	list-style: none;
+	color: white;
+}
+
+.col31 li#markY {
+	color: black;
+	cursor: pointer;
+	list-style-image: url(img/arrow_white.png);
+}
+
+.col31 ul:hover #markY {
+	color: white;
+	list-style: none;
+}
+
+.col31 li:hover {
+	color: black;
+	cursor: pointer;
+	list-style-image: url(img/arrow_white.png);
+}
+
+.col31 li#markY:hover {
+	color: black;
+	cursor: pointer;
+	list-style-image: url(img/arrow_white.png);
+}
